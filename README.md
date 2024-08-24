@@ -42,8 +42,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmaida&show_icons=true&locale=en&layout=compact" alt="gabrielmaida" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmaida&show_icons=true&locale=en" alt="gabrielmaida" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmaida&" alt="gabrielmaida" /></p>
-
-
-
