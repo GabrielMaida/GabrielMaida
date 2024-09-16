@@ -39,6 +39,6 @@
 <br>
 
 <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmaida&show_icons=true&layout=compact" alt="Top Linguagens GabrielMaida" height ="150px"/></p>
-    <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielmaida&show_icons=true" alt="Status GitHub GabrielMaida" height ="150px" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmaida&show_icons=true&layout=compact" alt="Top Linguagens GabrielMaida" height ="180px"/></p>
+    <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gabrielmaida&show_icons=true" alt="Status GitHub GabrielMaida" height ="180px" /></p>
 </div>
