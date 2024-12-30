@@ -3,7 +3,7 @@
 
 - 🖥️ Currently working on <a href="https://compass.uol/pt/home/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjETy0VOzv6gXdQZlWfiNFwK9qTxnPI8Obzw&s" alt="mysql" width="200" height="60"/> </a>
 
-- ✍️ I’m currently learning **React, NodeJS**
+- ✍️ Learning **React** and **NodeJS**
 
 - 📧 Email me **gabriel.antonio.dlm@gmail.com**
 
