@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Antônio</h1>
 <h3 align="center">A Back-End developer from Brazil</h3>
 
-- 🖥️ Currently working on <a href="https://compass.uol/pt/home/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjETy0VOzv6gXdQZlWfiNFwK9qTxnPI8Obzw&s" alt="mysql" width="200" height="60"/> </a>
+- 🖥️ Currently working at <a href="https://compass.uol/pt/home/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjETy0VOzv6gXdQZlWfiNFwK9qTxnPI8Obzw&s" alt="mysql" width="200" height="60"/> </a>
 
 - ✍️ Learning **React** and **NodeJS**
 
