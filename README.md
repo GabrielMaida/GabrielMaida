@@ -9,7 +9,7 @@
 
 <br>
 
-<!-- <img width="1000px" height="200px" src="responsividade.gif" /> -->
+<img width="1000px" height="200px" src="responsividade.gif" />
 
 <div align="center">
     <h3>Connect with me:</h3>
