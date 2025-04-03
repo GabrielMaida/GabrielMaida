@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabriel Antônio</h1>
-<h3 align="center">A Back-End developer from Brazil</h3>
+<h3 align="center">A Full-Stack Developer from Brazil</h3>
 
-- 🖥️ Currently working at <a href="https://compass.uol/pt/home/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjETy0VOzv6gXdQZlWfiNFwK9qTxnPI8Obzw&s" alt="mysql" width="200" height="60"/> </a>
+- 🖥️ Currently working at <a href="https://compass.uol/en/home/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjETy0VOzv6gXdQZlWfiNFwK9qTxnPI8Obzw&s" width="200" height="60"/> </a>
 
-- ✍️ Learning **React** and **NodeJS**
+- ✍️ Learning **ReactJS** and **NodeJS**
 
 - 📧 Email me **gabriel.antonio.dlm@gmail.com**
 
 <br>
-
-<img width="1000px" height="200px" src="responsividade.gif" />
 
 <div align="center">
     <h3>Connect with me:</h3>
