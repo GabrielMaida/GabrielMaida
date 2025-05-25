@@ -1,6 +1,6 @@
 # 💫 About Me:
 #### 👋 Hi, I'm Gabriel Antônio!
-#### 👨‍💻 A Back-End Developer from Brazil.
+#### 👨‍💻 A Full-Stack Developer from Brazil.
 #### 🚀 Currently working at <a href="https://compass.uol/en/home/" target="_blank" rel="noreferrer">Compass UOL</a>.
 
 ## 🌐 Socials:
