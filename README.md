@@ -1,7 +1,8 @@
 # 💫 About Me:
 #### 👋 Hi, I'm Gabriel Antônio!
-#### 👨‍💻 A Full-Stack Developer from Brazil.
-#### 🚀 Currently working at <a href="https://compass.uol/en/home/" target="_blank" rel="noreferrer">Compass UOL</a>.
+#### 👨‍💻 A Back-End Developer from Brazil
+#### ☁️ AWS Certified Cloud Practitioner
+<!--#### 🚀 Currently working at </a>.-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielmaida)
