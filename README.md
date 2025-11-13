@@ -28,10 +28,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-
 ## ☁️ Cloud, DevOps and Tools:
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Electron](https://img.shields.io/badge/Electron-191919?style=for-the-badge&logo=Electron&logoColor=white)](https://www.electronjs.org/)
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -39,8 +38,8 @@
 
 ## 📚 Another Experiences:
 * **Languages:** C, Lua, C++, C#
-* **BI/Data Tools:** Pandas, Power BI, PySpark
-* **Documentation/Design:** Figma, Canva, Markdown
+* **BI/Data Tools:** Pandas, Power BI, PySpark, Microsoft SQL Server
+* **Documentation/Design:** Figma, Markdown, Canva
 
 ---
 
