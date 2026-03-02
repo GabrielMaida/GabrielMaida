@@ -1,6 +1,6 @@
 # Gabriel Antônio Maida
 
-#### 👨‍💻 A Back-End Developer from Brazil 
+#### 👨‍💻 A Full-Stack Developer from Brazil 
 #### 🧐 Focused on Web Systems Development
 #### ☁️ AWS Certified Cloud Practitioner
 
